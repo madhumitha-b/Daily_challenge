@@ -1,3 +1,3 @@
-# YBI Regression_Model_to_Predict_Cement_Compressive_Strength_Project
+# Placement
 
-I have attached the YBI machine learning  internship assignment
+How I prepared for the placements
